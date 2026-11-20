@@ -1,6 +1,6 @@
-# JordanNewell's Scoop bucket
+# .curt Scoop bucket
 
-Personal [Scoop](https://scoop.sh) bucket for JordanNewell's Windows tools.
+[Scoop](https://scoop.sh) bucket for [.curt](https://github.com/dotcurt) format tools.
 
 ## Usage
 
