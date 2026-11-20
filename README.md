@@ -5,7 +5,7 @@ Personal [Scoop](https://scoop.sh) bucket for JordanNewell's Windows tools.
 ## Usage
 
 ```powershell
-scoop bucket add jordannewell https://github.com/JordanNewell/bucket
+scoop bucket add dotcurt https://github.com/dotcurt/bucket
 scoop install curt-openwith
 ```
 
@@ -13,7 +13,7 @@ scoop install curt-openwith
 
 | Package | Description |
 |---------|-------------|
-| [curt-openwith](https://github.com/JordanNewell/curt-openwith) | Double-click a `.curt` file and it opens in the offline Curt Viewer — a browser page that renders the conversation locally. |
+| [curt-openwith](https://github.com/dotcurt/curt-openwith) | Double-click a `.curt` file and it opens in the offline Curt Viewer — a browser page that renders the conversation locally. |
 
 ### curt-openwith post-install
 
